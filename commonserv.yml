@@ -1,2 +1,9 @@
 commonserv:
   cprop01: cval01
+
+spring:
+  profiles:
+    include: specd
+    
+logging:
+    level: debug
