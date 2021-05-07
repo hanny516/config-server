@@ -6,4 +6,5 @@ spring:
     include: specd
     
 logging:
-    level: debug
+    level:
+      root: DEBUG
